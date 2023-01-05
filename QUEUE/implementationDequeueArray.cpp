@@ -44,7 +44,7 @@ class Deque{
                 rear++;
             }
 
-            arr[rear];
+            arr[rear]=x;
             return true;
         }
 
